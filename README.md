@@ -2,6 +2,11 @@
 
 A **Clean Architecture** é um modelo arquitetural que promove **separação de preocupações**, **baixo acoplamento** e **alta coesão**. Criada por Robert C. Martin (Uncle Bob), essa abordagem facilita a **manutenção, escalabilidade e testabilidade** dos sistemas.
 
+
+![Clean-Architecture-3](https://github.com/user-attachments/assets/3b362fd9-0361-4e1e-ab36-a95e7ca7f959)
+
+
+
 ## 📂 Estrutura de Camadas
 A Clean Architecture organiza o código em **camadas independentes**, onde as regras de negócio não dependem de detalhes externos, como frameworks ou bancos de dados.
 
